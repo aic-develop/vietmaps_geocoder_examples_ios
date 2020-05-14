@@ -1,0 +1,24 @@
+PODS:
+  - VietMaps (0.1.3):
+    - VietMapsMobileEvents (= 0.1.0)
+  - VietMapsGeocoder (1.0.0)
+  - VietMapsMobileEvents (0.1.0)
+
+DEPENDENCIES:
+  - VietMaps (~> 0.1.3)
+  - VietMapsGeocoder (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - VietMaps
+    - VietMapsGeocoder
+    - VietMapsMobileEvents
+
+SPEC CHECKSUMS:
+  VietMaps: 3f1f870caf1a3810dee1a557ec4cd7a3cdaed7cc
+  VietMapsGeocoder: ed11f04f6336d7976eeb6b5acaedb6e94e3c690e
+  VietMapsMobileEvents: 346f002271cfbbbb3766258aa303f1a21c39f3db
+
+PODFILE CHECKSUM: e1a7628bfc079eebd53d239fe4468e7fa47d13b6
+
+COCOAPODS: 1.9.1
